@@ -26,7 +26,9 @@ SECRET_KEY = 'django-insecure-mat40#_-263_pbjep=%=kon09a+^9f+_vxi73=e*@+q690bxz#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'immense-stream-36896.herokuapp.com'
+]
 
 
 # Application definition
